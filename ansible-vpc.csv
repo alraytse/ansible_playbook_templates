@@ -1,0 +1,2 @@
+if_pol,sw1_name,sw1_port,vpc_id,sw2_name,sw2_port,sw1_desc,sw2_desc,fab_name,fab_url
+access,rlf04lab,Ethernet1/20,666,rlf05lab,Ethernet1/20,int1description,int2description,PDC1-LAB-Fabric,https://dcnm-lab.dev.schwab.com

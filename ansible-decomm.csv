@@ -1,0 +1,2 @@
+switch,ports,fab_name,fab_url
+rlf04lab,"ethernet1/20,ethernet1/21",PDC1-LAB1-Fabric,https://dcnm-lab.dev.schwab.com

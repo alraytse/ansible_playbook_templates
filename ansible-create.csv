@@ -1,0 +1,2 @@
+network,vlan,fab_name,fab_url
+10.96.104.128/26,11,PDC1-LAB1-Fabric,https://dcnm-lab.dev.schwab.com
